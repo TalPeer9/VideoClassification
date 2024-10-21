@@ -1,0 +1,11 @@
+
+numpy
+pandas
+torch
+torchvision
+opencv-python
+scikit-learn
+imageio
+matplotlib
+pyav
+termcolor
