@@ -1,5 +1,5 @@
 
-# Video Classification Home Assignment
+# Video Classification
 
 This repository contains the final submission for the Workout Video Classification task. The objective of this project is to classify workout movements from short video clips, using different model architectures to analyze performance.
 
